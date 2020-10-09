@@ -9,3 +9,7 @@ Nodemon,
 Node.js
 
 ## arquitetura
+
+<p align= "center">
+<img src= "https://github.com/botelholarissa/server-reprograma-blog/blob/main/img/arquitetura-reprograma-blog.png">
+<p>
